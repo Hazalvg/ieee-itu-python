@@ -5,6 +5,6 @@
 
 # Icerik
 ## Ders 1
-- Print Fonksiyonu
-- Input Fonksiyonu
-- Operatorler
+- Print Fonksiyonu ``` printFunction.py ```
+- Input Fonksiyonu ``` inputFunction.py ```
+- Operatorler ``` operators.py ```
