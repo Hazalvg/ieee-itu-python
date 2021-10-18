@@ -78,7 +78,7 @@
 """
 #Ornek 7 end parametresi
 """
-    print("Yet",end="")
-    print("Gen")
-    # log -> YetGen
+    print("IEEE",end="")
+    print(" ITU")
+    # log -> IEEE ITU
 """
