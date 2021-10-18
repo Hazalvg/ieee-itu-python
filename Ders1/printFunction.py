@@ -1,6 +1,6 @@
 """
     @author : Gorkem Aktas
-    @date : 12.07.2021
+    @date : 18.10.2021
     @brief : Bu dokuman icerisinde print fonksiyonu ile tanisacaksiniz.
     Ayrica kullanimina iliskin genis ornekler bulacaksiniz
 """
